@@ -1,5 +1,7 @@
 # LLM Crossword Solver Challenge
 
+> ⚠️ This is a past coding test used by i.AI for hiring AI Engineers and will not be used for any current interviews
+
 ## Overview
 Welcome to the AI Engineer technical challenge for i.AI 👩‍💻
 
