@@ -1,6 +1,6 @@
 # LLM Crossword Solver Challenge
 
-> ⚠️ This is a past coding test used by i.AI for hiring AI Engineers and will not be used for any current interviews
+> ⚠️ This is a past coding test used by i.AI for hiring AI Engineers and will not be used for current or future interviews
 
 ## Overview
 Welcome to the AI Engineer technical challenge for i.AI 👩‍💻
@@ -109,6 +109,6 @@ Run the test suite:
 pytest
 ```
 
-## License
+---
 
-This challenge is proprietary and confidential. Do not share or distribute.
+This challenge was created by the Incubator for AI. If you share or re-use the code please give attribution to this original repository.
